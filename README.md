@@ -209,6 +209,10 @@ https://developer.huawei.com/consumer/cn/forum/topic/0201692989697260758?fid=010
 * [鸿蒙架构师修炼之道-关键要素](https://www.imooc.com/article/389863)
 * [鸿蒙架构师修炼之道-实践应用](https://www.imooc.com/article/390159)
 * [鸿蒙架构师修炼之道-什么是软件架构](https://developer.huawei.com/consumer/cn/forum/topic/0203210415927615786?fid=0109140870620153026)
+* [鸿蒙架构师修炼之道-B/S与C/S架构](https://www.imooc.com/article/390637)
+* [鸿蒙架构师修炼之道-面向对象的分布式架构](https://www.imooc.com/article/390789)
+* [HarmonyOS 6.0升级至6.1改动点](https://www.imooc.com/article/391516)
+* [历时三年《鸿蒙系统（HarmonyOS）移动开发实战》简介](https://www.imooc.com/article/391836)
 * 未完待续...
 
 ## Samples 示例（按发表时间升序排序）
